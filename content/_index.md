@@ -21,11 +21,11 @@ bookToc: false
 - [Программирование в двух словах](docs/programming)
 - [Маленькая книга о Lua](docs/TLBx/lua)
 - [Маленькая книга о блокчейне](docs/TLBx/blockchain)
-- [Совсем другая книга о Go](docs/TLBx/golang) (draft)
-- [Про сети](docs/TLBx/networks) (draft)
+- (draft) [Совсем другая книга о Go](docs/TLBx/golang) 
+- (draft) [Про сети](docs/TLBx/networks)
 - Маленькая книга о Python
-- Инфобез для самых маленьких
-- Базы данных
+- (draft) [Инфобез для самых маленьких](docs/infosecurity)
+- (draft) [Базы данных](docs/databases)
 
 ## Разное
 
