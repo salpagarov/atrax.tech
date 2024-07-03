@@ -18,16 +18,11 @@ bookToc: false
 {{< /columns >}}
 
 # Маленькая библиотека
-## Завершенное
 - [Программирование в двух словах](docs/programming)
 - [Маленькая книга о Lua](docs/TLBx/lua)
 - [Маленькая книга о блокчейне](docs/TLBx/blockchain)
-
-## Черновики
-- [Совсем другая книга о Go](docs/TLBx/golang)
-- [Про сети](docs/TLBx/networks)
-
-## Планы
+- [Совсем другая книга о Go](docs/TLBx/golang) (draft)
+- [Про сети](docs/TLBx/networks) (draft)
 - Маленькая книга о Python
 - Инфобез для самых маленьких
 - Базы данных
