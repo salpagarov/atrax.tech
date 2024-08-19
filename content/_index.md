@@ -23,7 +23,7 @@ bookToc: false
 - [Маленькая книга о блокчейне](docs/TLBx/blockchain)
 - (draft) [Совсем другая книга о Go](docs/TLBx/golang) 
 - (draft) [Про сети](docs/TLBx/networks)
-- Маленькая книга о Python
+- (draft) [Маленькая книга о Python](docs/TLBx/python)
 - (draft) [Инфобез для самых маленьких](docs/infosecurity)
 - (draft) [Базы данных](docs/databases)
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 git config --local user.name "Sol"
 git config --local user.email "salpagarov@gmail.com"
-git config --local core.sshCommand "ssh -i ../sol"
+git config --local core.sshCommand "ssh -i .ssh/id_rsa"
 git config --local core.editor "nano"
 
 git push -f
